@@ -1,16 +1,25 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18416270&assignment_repo_type=AssignmentRepo)
 # SE_Day1
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-
+software engineering is basically the act of communication with computers,which is basically done in codes (a language that the machine or computer understands.
+its importance to technology is that it helps to make problem solving fast, and also provide solutions that woudnt have been humanly possible.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-
+1) OOP: when the evolution started with object oriented programming around 1980
+2) The internet age, started aroud late 20th century, which led to the birth of web based applications
+3) Cloud computing and Ai: this is the era of cloud computing where companies like Amazon, Microsoft etc provide scalable infastruture with new Ai integration
 
 List and briefly explain the phases of the Software Development Life Cycle.
-
+1) planning: before execution of any project, theres planning about the goals, scopes at which it covers and the objective of the project, those are some of the things considered in planning
+2) design:this is where specifications and models are decided
+3) implementation: this is the stage where the plans and implementation are put in place in the form of codes
+4) Testing ; the written codes are tested
+5) Deployment: once its be tested and proven to be good it pushed out for use
+6) Mantenance: from time to time the developers check the codes of the product in use and update it or fix a bug.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
