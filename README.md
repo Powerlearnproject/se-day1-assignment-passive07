@@ -5,10 +5,13 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-
+software engineering is basically the act of communication with computers,which is basically done in codes (a language that the machine or computer understands.
+its importance to technology is that it helps to make problem solving fast, and also provide solutions that woudnt have been humanly possible.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-
+1) OOP: when the evolution started with object oriented programming around 1980
+2) The internet age, started aroud late 20th century, which led to the birth of web based applications
+3) Cloud computing and Ai: this is the era of cloud computing where companies like Amazon, Microsoft etc provide scalable infastruture with new Ai integration
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
