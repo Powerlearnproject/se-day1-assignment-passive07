@@ -14,7 +14,12 @@ Identify and describe at least three key milestones in the evolution of software
 3) Cloud computing and Ai: this is the era of cloud computing where companies like Amazon, Microsoft etc provide scalable infastruture with new Ai integration
 
 List and briefly explain the phases of the Software Development Life Cycle.
-
+1) planning: before execution of any project, theres planning about the goals, scopes at which it covers and the objective of the project, those are some of the things considered in planning
+2) design:this is where specifications and models are decided
+3) implementation: this is the stage where the plans and implementation are put in place in the form of codes
+4) Testing ; the written codes are tested
+5) Deployment: once its be tested and proven to be good it pushed out for use
+6) Mantenance: from time to time the developers check the codes of the product in use and update it or fix a bug.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
