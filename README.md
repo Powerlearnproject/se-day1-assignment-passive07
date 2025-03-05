@@ -191,4 +191,25 @@ Improvement: The AI is directed to provide a simplified and relatable explanatio
 3.Advanced Prompt
 "Write a 200-word summary on machine learning, highlighting its key concepts, applications, and future trends."
 Benefit: The AI generates a more structured and focused response.
+
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+vague Prompt:
+"Tell me about technology."
+
+Issues with the Vague Prompt:
+Too Broad: "Technology" is a vast topic covering many fields (e.g., AI, cybersecurity, space exploration).
+Lacks Context: The AI doesn’t know whether to provide a historical overview, discuss current trends, or focus on a specific domain.
+Unclear Objective: The prompt doesn’t specify whether the user wants a general definition, a deep dive, or a short summary.
+
+Improved Prompt:
+"Provide a 150-word summary on recent advancements in artificial intelligence, including examples of real-world applications."
+
+Why the Improved Prompt is More Effective?
+Specific – It focuses on a particular aspect of technology (AI advancements).
+Concise – It asks for a summary in 150 words, setting a clear expectation for response length.
+Contextual – It directs the AI to include real-world applications, ensuring relevant and practical information.
+
+By refining prompts like this, users get more precise, useful, and targeted responses from AI.
+
+THANK YOU
